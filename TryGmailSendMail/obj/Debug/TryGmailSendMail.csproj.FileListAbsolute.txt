@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\bin\Debug\TryGmailSendMail.exe.config
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\bin\Debug\TryGmailSendMail.exe
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\bin\Debug\TryGmailSendMail.pdb
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.Form1.resources
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.Properties.Resources.resources
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.exe
+C:\Users\USER\source\repos\TryGmailSendMail\TryGmailSendMail\obj\Debug\TryGmailSendMail.pdb
